@@ -1,47 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="BranchesTreeState">
-    <expand>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-    </expand>
-    <select />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="8f02fdb8-04da-48e2-a39c-0fea66b285d3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/app.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/.idea/app.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/asgi.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/db.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/settings.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/urls.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/wsgi.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/erp/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/core/erp/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/erp/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/core/erp/apps.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/erp/migrations/0001_initial.py" beforeDir="false" afterPath="$PROJECT_DIR$/core/erp/migrations/0001_initial.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/erp/migrations/0002_employee_gender.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/erp/migrations/0003_remove_employee_gender.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/erp/migrations/0004_auto_20200917_0050.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/erp/migrations/0005_auto_20200917_0125.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/erp/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/core/erp/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/erp/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/core/erp/tests.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/erp/views.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manage.py" beforeDir="false" afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requeriments.txt" beforeDir="false" />
-    </list>
+    <list default="true" id="8f02fdb8-04da-48e2-a39c-0fea66b285d3" name="Default Changelist" comment="update core app" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,13 +16,14 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="JupyterTrust" id="90a43724-7da6-433e-996f-3997ff3088da" />
   <component name="ProjectId" id="1ZhFi7wFKPw9AsxG71KwhitSVHM" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -70,11 +31,17 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="D:/Sistemas de Venta/Django/Trabajos/2020/anuket/app" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../../Sistemas de Venta/Django/Personal/algorisoft/app" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\Projects\hades\app\templates\hzt" />
+    </key>
   </component>
   <component name="RunManager" selected="Django Server.server">
     <configuration name="tests" type="PythonConfigurationType" factoryName="Python">
@@ -107,7 +74,7 @@
         <env name="PYTHONUNBUFFERED" value="1" />
         <env name="DJANGO_SETTINGS_MODULE" value="config.settings" />
       </envs>
-      <option name="SDK_HOME" value="C:\Users\Atera\Documents\Proyecto\Project_web\env\Scripts\python.exe" />
+      <option name="SDK_HOME" value="D:\2020\desarrollo web\projects\hades\env\Scripts\python.exe" />
       <option name="WORKING_DIRECTORY" value="" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
@@ -128,7 +95,6 @@
       <item itemvalue="Python.tests" />
     </list>
   </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -155,67 +121,118 @@
       <workItem from="1585799002347" duration="8966000" />
       <workItem from="1585844458943" duration="93000" />
       <workItem from="1585846979152" duration="6087000" />
-      <workItem from="1601619134788" duration="2858000" />
+      <workItem from="1586480494578" duration="4969000" />
+      <workItem from="1586493606406" duration="4354000" />
+      <workItem from="1586535428449" duration="20495000" />
+      <workItem from="1586739309123" duration="4561000" />
+      <workItem from="1602254276005" duration="75000" />
+      <workItem from="1602264243039" duration="738000" />
+      <workItem from="1602265008268" duration="1103000" />
     </task>
+    <task id="LOCAL-00001" summary="update core app">
+      <created>1586480765365</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1586480765365</updated>
+    </task>
+    <task id="LOCAL-00002" summary="update core app">
+      <created>1586483337041</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1586483337041</updated>
+    </task>
+    <task id="LOCAL-00003" summary="update core app">
+      <created>1586546639214</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1586546639214</updated>
+    </task>
+    <task id="LOCAL-00004" summary="update core app">
+      <created>1586550779750</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1586550779750</updated>
+    </task>
+    <task id="LOCAL-00005" summary="update core app">
+      <created>1586554836168</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1586554836168</updated>
+    </task>
+    <task id="LOCAL-00006" summary="update core app">
+      <created>1586555626032</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1586555626032</updated>
+    </task>
+    <task id="LOCAL-00007" summary="update core app">
+      <created>1586561908417</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1586561908417</updated>
+    </task>
+    <task id="LOCAL-00008" summary="update core app">
+      <created>1586742269778</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1586742269778</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="3" />
+    <option name="version" value="2" />
   </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update core app" />
+    <option name="LAST_COMMIT_MESSAGE" value="update core app" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601619345751">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="361" y="70" key="#Deployment" timestamp="1602264439390">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1601619345751" />
-    <state x="719" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1601619288842">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="361" y="70" key="#Deployment/0.0.1536.824@0.0.1536.824" timestamp="1602264439390" />
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602265104112">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="719" y="322" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1601619288842" />
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1601620703949">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1602265104112" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1602266102762">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1601620703949" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1601620703949">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1602266102762" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1602266102762">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1601620703949" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1601620703949">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1602266102762" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1602266102762">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1601620703949" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1601620703949">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1602266102762" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1602266102762">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1601620703949" />
-    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1601619410559">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1601619410559" />
-    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1601619410559">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1601619410559" />
-    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1601619410559">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1601619410559" />
-    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1601619410559">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1601619410559" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1602266102762" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/app$tests.coverage" NAME="tests Coverage Results" MODIFIED="1585853573785" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/core/erp" />
+    <SUITE FILE_PATH="coverage/app$tests.coverage" NAME="tests Coverage Results" MODIFIED="1586557926673" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/core/erp" />
   </component>
 </project>
